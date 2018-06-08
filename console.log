@@ -1,0 +1,122 @@
+Start : 1524909110199
+End : 1524909110199
+Thread-0 / entier incrémenté : 1
+Thread-3 / entier incrémenté : 2
+Thread-1 / entier incrémenté : 3
+Thread-1 / entier lu : 3
+Thread-2 / entier incrémenté : 4
+Thread-1 / indice de boucle : 0 / valeur incrementée : 3
+Thread-2 / entier lu : 4
+Thread-2 / indice de boucle : 0 / valeur incrementée : 4
+Thread-3 / entier lu : 4
+Thread-3 / indice de boucle : 0 / valeur incrementée : 4
+Thread-0 / entier lu : 4
+Thread-0 / indice de boucle : 0 / valeur incrementée : 4
+Thread-3 / entier incrémenté : 5
+Thread-3 / entier lu : 5
+Thread-3 / indice de boucle : 1 / valeur incrementée : 5
+Thread-0 / entier incrémenté : 6
+Thread-0 / entier lu : 6
+Thread-0 / indice de boucle : 1 / valeur incrementée : 6
+Thread-2 / entier incrémenté : 7
+Thread-2 / entier lu : 7
+Thread-2 / indice de boucle : 1 / valeur incrementée : 7
+Thread-1 / entier incrémenté : 8
+Thread-1 / entier lu : 8
+Thread-1 / indice de boucle : 1 / valeur incrementée : 8
+Thread-0 / entier incrémenté : 9
+Thread-0 / entier lu : 9
+Thread-0 / indice de boucle : 2 / valeur incrementée : 9
+Thread-1 / entier incrémenté : 10
+Thread-1 / entier lu : 10
+Thread-1 / indice de boucle : 2 / valeur incrementée : 10
+Thread-2 / entier incrémenté : 11
+Thread-2 / entier lu : 11
+Thread-2 / indice de boucle : 2 / valeur incrementée : 11
+Thread-3 / entier incrémenté : 12
+Thread-3 / entier lu : 12
+Thread-3 / indice de boucle : 2 / valeur incrementée : 12
+Thread-0 / entier incrémenté : 13
+Thread-0 / entier lu : 13
+Thread-0 / indice de boucle : 3 / valeur incrementée : 13
+Thread-1 / entier incrémenté : 14
+Thread-1 / entier lu : 14
+Thread-1 / indice de boucle : 3 / valeur incrementée : 14
+Thread-3 / entier incrémenté : 15
+Thread-3 / entier lu : 15
+Thread-3 / indice de boucle : 3 / valeur incrementée : 15
+Thread-2 / entier incrémenté : 16
+Thread-2 / entier lu : 16
+Thread-2 / indice de boucle : 3 / valeur incrementée : 16
+Thread-0 / entier incrémenté : 17
+Thread-0 / entier lu : 17
+Thread-0 / indice de boucle : 4 / valeur incrementée : 17
+Thread-3 / entier incrémenté : 18
+Thread-3 / entier lu : 18
+Thread-3 / indice de boucle : 4 / valeur incrementée : 18
+Thread-1 / entier incrémenté : 19
+Thread-1 / entier lu : 19
+Thread-1 / indice de boucle : 4 / valeur incrementée : 19
+Thread-2 / entier incrémenté : 20
+Thread-2 / entier lu : 20
+Thread-2 / indice de boucle : 4 / valeur incrementée : 20
+Thread-0 / entier incrémenté : 21
+Thread-0 / entier lu : 21
+Thread-0 / indice de boucle : 5 / valeur incrementée : 21
+Thread-3 / entier incrémenté : 22
+Thread-3 / entier lu : 22
+Thread-3 / indice de boucle : 5 / valeur incrementée : 22
+Thread-1 / entier incrémenté : 23
+Thread-1 / entier lu : 23
+Thread-1 / indice de boucle : 5 / valeur incrementée : 23
+Thread-2 / entier incrémenté : 24
+Thread-2 / entier lu : 24
+Thread-2 / indice de boucle : 5 / valeur incrementée : 24
+Thread-1 / entier incrémenté : 25
+Thread-1 / entier lu : 25
+Thread-1 / indice de boucle : 6 / valeur incrementée : 25
+Thread-2 / entier incrémenté : 26
+Thread-2 / entier lu : 26
+Thread-2 / indice de boucle : 6 / valeur incrementée : 26
+Thread-0 / entier incrémenté : 27
+Thread-0 / entier lu : 27
+Thread-0 / indice de boucle : 6 / valeur incrementée : 27
+Thread-3 / entier incrémenté : 28
+Thread-3 / entier lu : 28
+Thread-3 / indice de boucle : 6 / valeur incrementée : 28
+Thread-2 / entier incrémenté : 29
+Thread-2 / entier lu : 29
+Thread-2 / indice de boucle : 7 / valeur incrementée : 29
+Thread-0 / entier incrémenté : 30
+Thread-0 / entier lu : 30
+Thread-0 / indice de boucle : 7 / valeur incrementée : 30
+Thread-3 / entier incrémenté : 31
+Thread-3 / entier lu : 31
+Thread-3 / indice de boucle : 7 / valeur incrementée : 31
+Thread-1 / entier incrémenté : 32
+Thread-1 / entier lu : 32
+Thread-1 / indice de boucle : 7 / valeur incrementée : 32
+Thread-0 / entier incrémenté : 33
+Thread-0 / entier lu : 33
+Thread-0 / indice de boucle : 8 / valeur incrementée : 33
+Thread-1 / entier incrémenté : 34
+Thread-1 / entier lu : 34
+Thread-1 / indice de boucle : 8 / valeur incrementée : 34
+Thread-3 / entier incrémenté : 35
+Thread-3 / entier lu : 35
+Thread-3 / indice de boucle : 8 / valeur incrementée : 35
+Thread-2 / entier incrémenté : 36
+Thread-2 / entier lu : 36
+Thread-2 / indice de boucle : 8 / valeur incrementée : 36
+Thread-1 / entier incrémenté : 37
+Thread-1 / entier lu : 37
+Thread-1 / indice de boucle : 9 / valeur incrementée : 37
+Thread-2 / entier incrémenté : 38
+Thread-2 / entier lu : 38
+Thread-2 / indice de boucle : 9 / valeur incrementée : 38
+Thread-0 / entier incrémenté : 39
+Thread-0 / entier lu : 39
+Thread-0 / indice de boucle : 9 / valeur incrementée : 39
+Thread-3 / entier incrémenté : 40
+Thread-3 / entier lu : 40
+Thread-3 / indice de boucle : 9 / valeur incrementée : 40
